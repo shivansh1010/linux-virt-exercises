@@ -1,0 +1,72 @@
+-------- Quota: 100  --------
+Period,Quota,Shares: 1000000 1000000 1024
+PID 13159 took 2958
+nr_periods 9
+nr_throttled 2
+throttled_time 198637636
+cpuacct_usage 5050
+
+-------- Quota: 90  --------
+Period,Quota,Shares: 1000000 900000 1024
+PID 13243 took 3226
+nr_periods 3
+nr_throttled 2
+throttled_time 194647269
+cpuacct_usage 3032
+
+-------- Quota: 80  --------
+Period,Quota,Shares: 1000000 800000 1024
+PID 13276 took 3635
+nr_periods 4
+nr_throttled 3
+throttled_time 595954872
+cpuacct_usage 3040
+
+-------- Quota: 70  --------
+Period,Quota,Shares: 1000000 700000 1024
+PID 13298 took 3936
+nr_periods 4
+nr_throttled 3
+throttled_time 896022484
+cpuacct_usage 3041
+
+-------- Quota: 60  --------
+Period,Quota,Shares: 1000000 600000 1024
+PID 13320 took 4563
+nr_periods 5
+nr_throttled 4
+throttled_time 1593283611
+cpuacct_usage 2971
+
+-------- Quota: 55  --------
+Period,Quota,Shares: 1000000 550000 1024
+PID 13342 took 4765
+nr_periods 5
+nr_throttled 4
+throttled_time 1797305102
+cpuacct_usage 2968
+
+-------- Quota: 50  --------
+Period,Quota,Shares: 1000000 500000 1024
+PID 13364 took 5462
+nr_periods 6
+nr_throttled 5
+throttled_time 2494688496
+cpuacct_usage 2968
+
+-------- Quota: 45  --------
+Period,Quota,Shares: 1000000 450000 1024
+PID 13386 took 5841
+nr_periods 6
+nr_throttled 6
+throttled_time 2863945542
+cpuacct_usage 2977
+
+-------- Quota: 40  --------
+Period,Quota,Shares: 1000000 400000 1024
+PID 13415 took 6667
+nr_periods 7
+nr_throttled 7
+throttled_time 3681252910
+cpuacct_usage 2987
+

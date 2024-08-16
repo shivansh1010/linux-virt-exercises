@@ -1,0 +1,36 @@
+-------- Quota: 100  --------
+Period,Quota,Shares: 100000 100000 1024
+PID 2 took 2855 | PID 3 took 2840 | PID 4 took 2856 | PID 5 took 2864 | PID 6 took 2887 | PID of main_proc created by clone() is 15252
+
+-------- Quota: 90  --------
+Period,Quota,Shares: 100000 90000 1024
+PID 2 took 3204 | PID 3 took 3184 | PID 4 took 3201 | PID 5 took 3188 | PID 6 took 3199 | PID of main_proc created by clone() is 15324
+
+-------- Quota: 80  --------
+Period,Quota,Shares: 100000 80000 1024
+PID 2 took 3570 | PID 3 took 3591 | PID 4 took 3597 | PID 5 took 3583 | PID 6 took 3587 | PID of main_proc created by clone() is 15337
+
+-------- Quota: 70  --------
+Period,Quota,Shares: 100000 70000 1024
+PID 2 took 4037 | PID 3 took 4142 | PID 4 took 4105 | PID 5 took 4098 | PID 6 took 4097 | PID of main_proc created by clone() is 15350
+
+-------- Quota: 60  --------
+Period,Quota,Shares: 100000 60000 1024
+PID 2 took 5186 | PID 3 took 5148 | PID 4 took 5255 | PID 5 took 5202 | PID 6 took 5201 | PID of main_proc created by clone() is 15363
+
+-------- Quota: 55  --------
+Period,Quota,Shares: 100000 55000 1024
+PID 2 took 6203 | PID 3 took 6228 | PID 4 took 6268 | PID 5 took 6225 | PID 6 took 6302 | PID of main_proc created by clone() is 15375
+
+-------- Quota: 50  --------
+Period,Quota,Shares: 100000 50000 1024
+PID 2 took 7679 | PID 3 took 7907 | PID 4 took 7778 | PID 5 took 7878 | PID 6 took 7741 | PID of main_proc created by clone() is 15387
+
+-------- Quota: 45  --------
+Period,Quota,Shares: 100000 45000 1024
+PID 2 took 12588 | PID 3 took 13286 | PID 4 took 13403 | PID 5 took 13002 | PID 6 took 18885 | PID of main_proc created by clone() is 15399
+
+-------- Quota: 40  --------
+Period,Quota,Shares: 100000 40000 1024
+PID 2 took 30077 | PID 3 took 30517 | PID 4 took 29996 | PID 5 took 30993 | PID 6 took 30286 | PID of main_proc created by clone() is 15411
+
